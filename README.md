@@ -4,6 +4,9 @@
 
 Commonly used machine learning vocabulary in both English and simplified Chinese
 
+- [Word list in csv](word_list.csv)
+- [Printer-friendly PDF](ML_Eng_Zh_Cheat_sheet.PDF) 
+
 Created by Yifan Wang
 
 
