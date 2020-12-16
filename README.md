@@ -2,12 +2,13 @@
 
 ## 机器学习常用词条中英速查表
 
+
 Commonly used machine learning vocabulary in both English and simplified Chinese
 
 - [Word list in csv](word_list.csv)
+
 - [Printer-friendly PDF](ML_Eng_Zh_Cheat_sheet.PDF) 
 
-Created by Yifan Wang
 
 
 ## Reference 
@@ -16,3 +17,8 @@ Created by Yifan Wang
 [Google Machine Learning Glossary](https://developers.google.com/machine-learning/glossary)
 
 [《机器学习》 周志华](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
+
+
+
+Created by Yifan Wang
+December 2020
