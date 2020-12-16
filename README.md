@@ -1,4 +1,4 @@
-## Machine Learning Vocabulary English Chinese Cheat Sheet
+## Machine Learning Vocabulary English/Chinese Cheat Sheet
 
 ## 机器学习常用词条中英速查表
 
