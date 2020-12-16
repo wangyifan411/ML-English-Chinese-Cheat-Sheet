@@ -1,0 +1,194 @@
+﻿Statistics  ,统计
+Bias ,偏差
+Bootstrapping ,自助法
+Covariance,协方差
+Expectation-Maximization (EM),期望最大化
+Harmonic mean ,调和平均数
+Hypothesis,假设
+Hypothesis test  ,假设检验
+Inference ,推断
+Instance ,实例
+Random sampling ,随机抽样
+Sample ,样本
+Sample space,样本空间
+Stratified sampling ,分层抽样
+Trial & error,试错法
+Variance ,方差
+,
+Linear Algebra ,线性代数
+Convex optimization,凸优化
+Eigenvalue ,特征值
+Eigenvector ,特征向量
+Euclidean norm ,欧几里得范数
+Identity matrix ,单元矩阵
+Matrix ,矩阵
+Norm ,范数
+Sparsity ,稀疏性
+Tensor ,张量
+Vector ,向量
+,
+Fundamentals ,基础知识
+Active learning ,主动学习
+Algorithm ,算法
+Attribute ,属性
+Bias-variance dilemma ,偏差-方差窘境
+Classification ,分类
+Cross validation ,交叉验证法
+Dimensionality ,维数
+End-to-End,端到端
+Error ,误差
+Feature ,特征
+Feature selection ,特征选择
+Generalization ,泛化能力
+Generalization error ,泛化误差
+Grid search,网络搜索
+Ground-truth,真相
+Hyperparameter ,超参数
+K-fold cross validation,k折交叉验证
+Leave n out ,留出法
+Leave one out ,留一法
+Loss function ,损失函数
+Model ,模型
+Normalization ,归一化
+Objective function ,目标函数
+Overfitting ,过拟合
+Parameter ,参数
+Parameter tuning ,调参
+Performance measure/metrics ,性能度量
+Regression ,回归
+Regularization ,正则化
+Reinforcement Learning ,强化学习
+Semi-supervised learning ,半监督学习
+Sparse dictionary learning ,稀松字典学习
+Supervised learning ,监督学习
+Test error,测试误差
+Training error ,训练误差
+Transfer learning ,迁移学习
+Underfitting ,欠拟合
+Unsupervised learning ,无监督学习
+Weight ,权重
+,
+Classification ,分类
+Area Under ROC Curve (AUC),曲线下面积
+Binary classification ,二元分类
+Classifier ,分类器
+Class-imbalance ,类别不平衡
+Confusion matrix ,混淆矩阵
+False Negative Rate (FNR) ,假负例率
+False Positive Rate (FPR) ,假正例率
+Oversampling ,过采样
+Precision ,查准率
+Recall ,查全率
+Rectified Linear Unit (ReLu),线性修正单元
+True Negative Rate (TNR) ,真负例率
+True Positive Rate (TPR) ,真正例率
+Undersampling ,欠采样
+,
+Regression ,回归
+Gaussian Process,高斯过程
+Least squares ,最小二乘法
+Linear Discriminant Analysis (LDA) ,线性判别分析
+Logistic regression ,逻辑回归/对数几率回归
+Mean squared error,均方差
+Multiple linear regression ,多元线性回归
+Multivariate normal distribution,多维正态分布
+,
+Decision tree ,决策树
+Boosting Tree,提升树
+Classification and regression tree (CART) ,分类与回归树
+Gini index ,基尼指数
+Information entropy ,信息熵
+Information gain ,信息增益
+Pruning ,剪枝
+,
+Support Vector Machine (SVM) ,支持向量机
+Hinge loss function,合页损失函数
+Kernel function ,核函数
+Radial Basis Function (RBF),径向基函数
+,
+Deep Learning ,深度学习
+Activation function ,激活函数
+Backpropagation ,反向传播
+Batch,批次
+Converge ,收敛
+Convolutional Neural Network ,卷积神经网络
+Diverge ,发散
+Early stopping ,早停
+Embedding ,嵌套
+Epochs ,轮数/周期
+Exploding Gradient Problem,梯度爆炸问题
+Gradient descent ,梯度下降法
+Hidden layer ,隐层
+Learning rate ,学习率
+Long-Short Term Memory (LSTM),长短期记忆
+Mini-Batch ,小批次
+Multi-layer feedforward neural network ,多层前馈神经网络
+Neural network ,神经网络
+Neuron ,神经元
+Pooling ,池化
+Recurrent Neural Network,循环神经网络
+Step function ,阶跃函数
+,
+Ensemble learning ,集成学习
+Bagging,装袋算法
+Base learner ,基学习器
+Base learning algorithm ,基学习算法
+Boosting ,提升方法
+Component learner ,组件学习器
+Gradient boosting tree,梯度提升树
+Heterogenous ,异质
+Homogeneous ,同质
+Majority voting ,绝对多数投票
+Out-of-bag estimate,包外估计
+Plurality voting ,最多票数
+Random Forest ,随机森林
+Weighted voting ,加权投票
+With replacement ,有放回
+,
+Clustering ,聚类算法
+Gaussian mixture model ,高斯混合模型
+K-Means Clustering,K - 均值聚类
+K-Nearest Neighbors Algorithm (KNN)  ,K近邻学习算法
+Latent variable ,隐变量
+,
+Dimension reduction ,降低维数
+Curse of dimensionality ,维数灾难
+Isomap ,等度量映射
+Locally linear embedding ,局部线性嵌入
+Manifold learning,流行学习
+Metric Learning ,度量学习
+Principal component analysis (PCA),主成分分析
+,
+Bayesian Methods ,贝叶斯方法
+Exploitation ,利用
+Exploration,探索
+Likelihood ,可能性
+Maximum A Posteriori ,最大后验
+Naive Bayes classifier ,朴素贝叶斯分类器
+Posterior probability ,后验概率
+Prior knowledge,先验知识
+Prior probability ,先验概率
+,
+Others ,其他
+Natural Language Processing (NLP),自然语言处理
+A/B testing ,A/B 测试
+Anomaly detection ,异常检测
+Bag of words/BoW,词袋
+Compressed sensing ,压缩感知
+Data mining,数据收集
+Data Wrangling ,数据整理
+Dataset augmentation ,数据集增强器
+Discriminative model ,判别模型
+Generative Adversarial Networks (GANs) ,生成对抗网络
+Generative models ,生成式模型
+K-armed bandit ,K-摇臂赌博机
+Markov Decision Process ,马尔可夫决策过程
+Recommendation system ,推荐系统
+,
+,
+,
+,
+Reference,
+GitHub 词汇集项目 机器之心,
+Google Machine Learning Glossary,
+《机器学习》 周志华,
